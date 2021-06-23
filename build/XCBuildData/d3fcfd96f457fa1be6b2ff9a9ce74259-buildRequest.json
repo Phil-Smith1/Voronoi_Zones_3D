@@ -1,0 +1,50 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "6dd9eb97f2029e34d8ea888a36113bd580b9ba1dd5260b0a58d0cab4e7a8c216"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/philsmith/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/philsmith/Library/Developer/Xcode/DerivedData/Voronoi_Zones_3D-deyqrpeobkeqfsghupcbwxwpvzfx/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/philsmith/Library/Developer/Xcode/DerivedData/Voronoi_Zones_3D-deyqrpeobkeqfsghupcbwxwpvzfx/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
