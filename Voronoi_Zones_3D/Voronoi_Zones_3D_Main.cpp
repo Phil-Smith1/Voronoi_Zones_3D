@@ -8,5 +8,7 @@ int main( int, char*[] )
     
     Print_Info( start_code_runtime, start_absolute_time ); // Prints runtimes.
     
+    int x;
+    
     return 0;
 }
