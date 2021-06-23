@@ -1,0 +1,7 @@
+input_dir,/Users/philsmith/Documents/Work/Xcode Projects/Voronoi_Zones/Voronoi_Zones_3D/Input/
+output_dir,/Users/philsmith/Documents/Work/Xcode Projects/Voronoi_Zones/Voronoi_Zones_3D/Output/
+input_file,Input.csv
+use_threads,0
+k,4
+write_vtk,1
+output_file,/Users/philsmith/Documents/Work/Xcode Projects/Voronoi_Zones/Voronoi_Zones_3D/Output/Output_
